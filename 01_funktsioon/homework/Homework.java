@@ -1,4 +1,6 @@
-public class Main {
+package homework;
+
+public class Homework {
     public static void main(String[] args) {
         //Siin on TicketCount'i funktsiooni näide
         int TicketCost;

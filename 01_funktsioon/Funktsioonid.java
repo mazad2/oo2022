@@ -1,9 +1,9 @@
 public class Funktsioonid {
     public static void main(String[] args) {
         //sout --> genereerin
-        System.out.println(taksosõit(h: 3.5));
+        System.out.println(taksosõit(h:(3.5)));
 
-        double soiduMaksumus = taksosõit(h:0.5);
+        double soiduMaksumus = taksosõit(h:(0.5));
         System.out.println(soiduMaksumus);
 
         prindiForTsukkel(5);
