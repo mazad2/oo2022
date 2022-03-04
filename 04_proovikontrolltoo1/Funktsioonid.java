@@ -12,6 +12,11 @@ public class Funktsioonid {
         List<Double> double2 = libisevKeskmine(List.of(integers));
         System.out.println(double1);
         System.out.println(double2);
+
+        Arvud arvud1 = new Arvud(3,5,6);
+        arvud1.lisaArv(7);
+        arvud1.lisaArv(8);
+        System.out.println(arvud1.libisevKeskmine());
     }
     public static double keskmiseLeidur(int a, int b, int c){
         return (a + b + c) / 3.0;
