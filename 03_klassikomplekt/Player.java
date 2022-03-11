@@ -3,26 +3,17 @@ public class Player {
     int coordinateY;
     int coordinateX;
     Direction direction;
-<<<<<<< HEAD
-=======
     Item item;
->>>>>>> 79bb319f5ab6f21ada07a28cd81f0a0c1701626c
-
     // Constructor
     public Player(int worldHeight, int worldWidth) {
         this.coordinateY = generateRandomCoordinate(worldHeight);
         this.coordinateX = generateRandomCoordinate(worldWidth);
         this.direction = Direction.UP;
     }
-
-<<<<<<< HEAD
-=======
     public void addItem(Item item){
         this.item = item;
         System.out.println("Mangija sai eseme + " + item.itemType);
     }
-
->>>>>>> 79bb319f5ab6f21ada07a28cd81f0a0c1701626c
     public int generateRandomCoordinate(int worldSize) {
         return (int) (Math.random()*(worldSize-2))+1;
     }

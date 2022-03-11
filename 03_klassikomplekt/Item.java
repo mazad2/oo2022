@@ -5,8 +5,8 @@ public class Item {
     ItemType itemType;
 
     public Item(int worldheight, int worldWidth, ItemType itemType){
-        this.coordinateY = generateRandomCoordiante(worldheight);
-        this.coordinateX = generateRandomCoordiante(worldheight);
+        this.coordinateY = generateRandomCoordinate(worldheight);
+        this.coordinateX = generateRandomCoordinate(worldheight);
         this.itemType = itemType;
         detemineStrenght(itemType); //ctrl + alt + m
     }
