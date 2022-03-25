@@ -15,8 +15,8 @@ class TriksTraksTrull {
         table = new char[3][3];
     }
 
-    public void game() {
-        initTable();
+    public void Mäng() {
+        eelPlats();
         while (true) {
             InimeseKord();
             if (Võidukontroll(xsign)) {
@@ -42,7 +42,7 @@ class TriksTraksTrull {
         PlatsiPrint();
     }
 
-    void initTable() {
+    void eelPlats() {
         for (int rida = 0; rida < 3; rida++)
             for (int veerg = 0; veerg < 3; veerg++)
                 table[rida][veerg] = tühjus;
