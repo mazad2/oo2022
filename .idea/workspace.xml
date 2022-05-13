@@ -4,64 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="253749d6-c87d-4af9-8d7b-702e857646bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/oo2022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/.idea/homework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/Homework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/out/production/homework/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/out/production/homework/.idea/homework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/out/production/homework/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/out/production/homework/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/out/production/homework/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_funktsioon/homework/out/production/homework/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/.idea/homework_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/Race.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/Tire.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/out/production/homework_2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/out/production/homework_2/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/out/production/homework_2/.idea/homework_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/out/production/homework_2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/out/production/homework_2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/out/production/homework_2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/out/production/homework_2/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/out/production/homework_2/Race.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_klass/homework_2/out/production/homework_2/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/Tire.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/homework_3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/out/production/homework_3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/out/production/homework_3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/out/production/homework_3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/out/production/homework_3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/out/production/homework_3/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/out/production/homework_3/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/out/production/homework_3/Tire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_klassikomplekt/homework_3/out/production/homework_3/homework_3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_kontrolltoo1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_kontrolltoo1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_kontrolltoo1/TriksTraksTrull.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_kontrolltoo1/TriksTraksTrull.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_kontrolltoo1/out/production/05_kontrolltoo1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/05_kontrolltoo1/out/production/05_kontrolltoo1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_kontrolltoo1/out/production/05_kontrolltoo1/TriksTraksTrull.class" beforeDir="false" afterPath="$PROJECT_DIR$/05_kontrolltoo1/out/production/05_kontrolltoo1/TriksTraksTrull.class" afterDir="false" />
+    <list default="true" id="253749d6-c87d-4af9-8d7b-702e857646bd" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/06_liides" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/12_kontrolltoo2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -95,7 +39,37 @@
       <option name="presentableId" value="Default" />
       <updated>1648198331450</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1652431807970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652431807970</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1652431839218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652431839218</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
